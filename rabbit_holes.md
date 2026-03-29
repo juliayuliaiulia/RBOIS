@@ -1,13 +1,13 @@
-<
-       /\ /|
-       |||| |
-        \ | \
-    _ _ /  @ @
-  /    \   =>X<=
-/|      |   /
-\|     /__| |
-  \_____\ \__\
->
+<!--
+      /\ /|
+      |||| |
+       \ | \
+   _ _ /  @ @
+  /    \  =>X<=
+ /|      |  /
+ \|     /__| |
+   \_____\ \__\
+-->
 unfortunately, i didn't go down any rabbit holes while building this repo, but i'll include...
 
 the most recent rabbit hole i went down, related to [cross device tracking](https://en.wikipedia.org/wiki/Cross-device_tracking#Ultrasonic_tracking), specifically ultrasonic cross device tracking (uXDT) and bioMEMS
