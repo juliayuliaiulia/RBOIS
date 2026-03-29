@@ -3,7 +3,7 @@
 
 [this](https://en.wikipedia.org/wiki/Aurora_Generator_Test) is what convinced me to study cybersecurity
 
-this is the first cybersecurity-related book i read
+this is the first cybersecurity-related book i read (the name interested me because i had just finished reading dune)
 
 <img width="280" height="433" alt="Screenshot 2026-03-29 at 5 36 40 PM" src="https://github.com/user-attachments/assets/badc14be-ea29-43ae-b4ed-0d32a48bd1ae" />
 
