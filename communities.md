@@ -21,4 +21,4 @@ https://forums.kali.org/
 
 [free geek twin cities](https://www.freegeektwincities.org/) is a community of tech enthusiasts (and a cool place to volunteer)
 
-https://dc612.org/index.php/about/
+[def con's mn spin-off](https://dc612.org/index.php/about/)
