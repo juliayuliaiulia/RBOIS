@@ -7,7 +7,7 @@
 
 [burbsec](https://burbsec.com/) is a community for infosec meetups with a variety of location-specific groups
 
-https://flipper.net/pages/community
+flipper has a [community page](https://flipper.net/pages/community) on their site linking to their blog, discord, repos, and more
 
 https://www.freegeektwincities.org/
 
