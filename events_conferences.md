@@ -9,6 +9,7 @@
 
 ## las vegas
 [defcon](https://defcon.org/) — [past defcon media](https://media.defcon.org/)
+
 [blackhat](https://blackhat.com/)
 
 ## san diego / pnw
