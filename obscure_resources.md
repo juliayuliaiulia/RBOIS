@@ -1,21 +1,3 @@
-<!--
-   .oOOOOOOo.
-  oOOOOOOOOOOo.
- OOOO'    'OOOO.
-OOOO'      'OOOO
-OOOO       .OOOO
-         .OOOO'
-        .OOOO'
-      .OOOO'
-     .OOOO'
-     OOOO'
-     OOOO
-     JGSO
-           
-     .OO.
-     OOOO
-     'OO'
--->
 kvlz pa jvbua hz vizjbyl pm p dypal pa pu jvkl?
 <!--does it count as obscure if i write it in code?-->
 
