@@ -8,6 +8,11 @@
  \|     /__| |
    \_____\ \__\
 -->
+#update
+after reading articles on the solarwinds attack, I had many questions about how the attack could have been prevented or better detected
+
+I found [openssf](https://openssf.org/) which includes SLSA which apparently requires/recommends an isolated build machine as well as signed provenance 
+
 unfortunately, i didn't go down any rabbit holes while building this repo, but i'll include...
 
 the most recent rabbit hole i went down, related to [cross device tracking](https://en.wikipedia.org/wiki/Cross-device_tracking#Ultrasonic_tracking), specifically ultrasonic cross device tracking (uXDT) and bioMEMS
