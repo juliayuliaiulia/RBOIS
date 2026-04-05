@@ -15,7 +15,7 @@ I found [openssf](https://openssf.org/) which includes SLSA which apparently req
 
 there is also [reproducible builds](https://reproducible-builds.org/) and [in toto](https://in-toto.io/)
 
-
+this is specifically to combat the at compile time switch of the files which happened with solarwinds
 
 # the most recent rabbit hole i went down
 related to [cross device tracking](https://en.wikipedia.org/wiki/Cross-device_tracking#Ultrasonic_tracking), specifically ultrasonic cross device tracking (uXDT) and bioMEMS
